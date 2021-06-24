@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005597917210",
+    "project_id": "maptext5",
+    "storage_bucket": "maptext5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005597917210:android:f07ac219ff602a44d3d1a3",
+        "android_client_info": {
+          "package_name": "com.example.googlemaptext5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005597917210-g7cuvrsr70ilsosk37mmo33vdagejdid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJVC2b_CGxW2bviBWbRoZEbzdqgWECEh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005597917210-g7cuvrsr70ilsosk37mmo33vdagejdid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

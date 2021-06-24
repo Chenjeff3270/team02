@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">googlemaptext5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Text1">地點:</string>
+    <string name="Text2">樣式:</string>
+    <string name="A1">上傳</string>
+    <string name="A2">修改</string>
+    <string name="A3">快速定位</string>
+    <string name="A4">臨檢回報</string>
+    <string name="A5">臨檢搜尋</string>
+    <string name="ht1">在此輸入地點</string>
+    <string name="ht2">在此輸入經緯度</string>
+    <string name="A6">喝酒不開車，開車不喝酒</string>
+</resources>
